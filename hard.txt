@@ -1,0 +1,10 @@
+ALGORITHM|A step-by-step procedure for solving a problem
+VARIABLE|A named place used to store a value in programming
+FUNCTION|A reusable block of code that performs a task
+INTERFACE|A point where a user interacts with a system
+EXCEPTION|An error or unusual event handled by a program
+RECURSION|When a function calls itself
+ENCAPSULATION|Keeping data and related behaviour together in a class
+POLYMORPHISM|One programming interface taking different forms
+INHERITANCE|A class receiving features from another class
+ASYNCHRONOUS|Tasks that do not have to finish in strict sequence

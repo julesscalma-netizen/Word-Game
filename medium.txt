@@ -1,0 +1,10 @@
+PYTHON|A programming language named after a comedy group
+JOURNEY|Travel from one place to another
+LIBRARY|A place where many books are kept
+NETWORK|Connected computers or people
+WEBSITE|A collection of pages viewed in a browser
+KEYBOARD|A device with keys used to type
+DATABASE|An organised collection of stored information
+SOFTWARE|Programs and instructions used by a computer
+ANALYSIS|Careful examination of information
+SECURITY|Protection from danger or unauthorised access
